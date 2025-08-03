@@ -33,3 +33,14 @@ This service is a gRPC-based microservice built for managing Gmail integrations 
 ```bash
 dotnet ef database update
 dotnet run
+
+
+
+In AppSetting of  Grpc service add
+  "Google": {
+    "ClientId": "<your-client-id>",
+    "ClientSecret": "<your-client-secret>",
+    "RedirectUri": "https://your-app.com/oauth/callback"
+  },
+
+
