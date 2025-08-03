@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.api\\chatly.omnichannel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|solutionrelative:chatly.omnichannel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.api\\chatly.omnichannel.api\\protos\\gmailinbox.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|solutionrelative:chatly.omnichannel.api\\protos\\gmailinbox.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.api\\chatly.omnichannel.api\\protos\\gmailaccount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|solutionrelative:chatly.omnichannel.api\\protos\\gmailaccount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.api\\chatly.omnichannel.api\\controllers\\gmailinboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|solutionrelative:chatly.omnichannel.api\\controllers\\gmailinboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.api\\chatly.omnichannel.api\\controllers\\gmailauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|solutionrelative:chatly.omnichannel.api\\controllers\\gmailauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.api\\chatly.omnichannel.api\\chatly.omnichannel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}|Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj|solutionrelative:chatly.omnichannel.api\\chatly.omnichannel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Api\\Program.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Program.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:14:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GmailInboxController.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Controllers\\GmailInboxController.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Api\\Controllers\\GmailInboxController.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Controllers\\GmailInboxController.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Api\\Controllers\\GmailInboxController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:06:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GmailAuthController.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Controllers\\GmailAuthController.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Api\\Controllers\\GmailAuthController.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Controllers\\GmailAuthController.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Api\\Controllers\\GmailAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:05:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gmailinbox.proto",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Protos\\gmailinbox.proto",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Api\\Protos\\gmailinbox.proto",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Protos\\gmailinbox.proto",
+              "RelativeToolTip": "Chatly.OmniChannel.Api\\Protos\\gmailinbox.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-03T12:05:33.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gmailaccount.proto",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Protos\\gmailaccount.proto",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Api\\Protos\\gmailaccount.proto",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Protos\\gmailaccount.proto",
+              "RelativeToolTip": "Chatly.OmniChannel.Api\\Protos\\gmailaccount.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-03T12:05:02.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chatly.OmniChannel.Api.csproj",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj",
+              "RelativeToolTip": "Chatly.OmniChannel.Api\\Chatly.OmniChannel.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T12:03:31.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

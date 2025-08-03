@@ -1,0 +1,30 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Chatly.OmniChannel.Gmail.GServices";
+
+package gmail;
+
+service GmailInboxService {
+  rpc GetInbox (GetInboxRequest) returns (GetInboxResponse);
+   rpc GetThreadMessages(GetThreadRequest) returns (GetThreadResponse);
+}
+
+message GetInboxRequest {
+  string userId= 1;
+  int32 max_results = 2;
+}
+
+message GetInboxResponse {
+  string raw_json = 1;
+}
+
+message GetThreadRequest {
+  string userId = 1;       // Your app user ID (e.g. GUID)
+  string threadId = 2;     // Gmail thread ID
+}
+
+message GetThreadResponse {
+
+  string raw_json = 1;   
+  string HtmlContent=2;
+}

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="Google.Protobuf" Version="3.31.1" />
+		<PackageReference Include="Grpc.Net.Client" Version="2.71.0" />
+		<PackageReference Include="Grpc.Net.ClientFactory" Version="2.71.0" />
+		<PackageReference Include="Grpc.Tools" Version="2.72.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<Protobuf Include="Protos\gmailaccount.proto" GrpcServices="Client" />
+		<Protobuf Include="Protos\gmailinbox.proto" GrpcServices="Client" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "Chatly.OmniChannel.Api.Controllers.GmailInboxController",
+    "Method": "GetInbox",
+    "RelativePath": "api/ginbox/inbox",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxResults",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Chatly.OmniChannel.Api.Controllers.GmailInboxController",
+    "Method": "GetInboxDetailHtml",
+    "RelativePath": "api/ginbox/inboxDetailHtml",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "threadId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Chatly.OmniChannel.Api.Controllers.GmailInboxController",
+    "Method": "GetInboxDetailJson",
+    "RelativePath": "api/ginbox/inboxDetailJson",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "threadId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Chatly.OmniChannel.Api.Controllers.GmailAuthController",
+    "Method": "GoogleCallback",
+    "RelativePath": "api/google/callback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Chatly.OmniChannel.Api.Controllers.GmailAuthController",
+    "Method": "GetGoogleLoginUrl",
+    "RelativePath": "api/google/connect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Chatly.OmniChannel.Api.Controllers.GmailAuthController",
+    "Method": "GetAllSessions",
+    "RelativePath": "api/google/session",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

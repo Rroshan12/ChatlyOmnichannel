@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\services\\gmailinboxrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\services\\gmailinboxrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\services\\gmailaccountsessionrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\services\\gmailaccountsessionrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\model\\gmailaccountsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\model\\gmailaccountsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\model\\enum\\connectionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\model\\enum\\connectionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\servicecollection\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\servicecollection\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\model\\gmailservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\model\\gmailservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\protos\\gmailinbox.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\protos\\gmailinbox.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\repository\\gmailaccountsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\repository\\gmailaccountsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\protos\\gmailaccount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\protos\\gmailaccount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\interface\\igmailaccountsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\interface\\igmailaccountsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|d:\\working\\krispcallomni\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CCE14C0-0F06-42A5-8DFA-B6C9A8C2FA99}|Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj|solutionrelative:chatly.omnichannel.gmail.gservices\\chatly.omnichannel.gmail.gservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Program.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Program.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Program.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:11:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\ServiceCollection\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\ServiceCollection\\ServiceExtension.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\ServiceCollection\\ServiceExtension.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\ServiceCollection\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Repository\\Repository.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:44.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GmailAccountSession.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Model\\GmailAccountSession.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Model\\GmailAccountSession.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Model\\GmailAccountSession.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Model\\GmailAccountSession.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:14.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionStatus.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Model\\Enum\\ConnectionStatus.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Model\\Enum\\ConnectionStatus.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Model\\Enum\\ConnectionStatus.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Model\\Enum\\ConnectionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:12.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GmailAccountSessionRpcService.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Services\\GmailAccountSessionRpcService.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Services\\GmailAccountSessionRpcService.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Services\\GmailAccountSessionRpcService.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Services\\GmailAccountSessionRpcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GmailInboxRpcService.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Services\\GmailInboxRpcService.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Services\\GmailInboxRpcService.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Services\\GmailInboxRpcService.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Services\\GmailInboxRpcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GmailServiceContext.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Model\\GmailServiceContext.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Model\\GmailServiceContext.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Model\\GmailServiceContext.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Model\\GmailServiceContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gmailinbox.proto",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailinbox.proto",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailinbox.proto",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailinbox.proto",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailinbox.proto",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-03T12:10:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GmailAccountSessionRepository.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Repository\\GmailAccountSessionRepository.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Repository\\GmailAccountSessionRepository.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Repository\\GmailAccountSessionRepository.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Repository\\GmailAccountSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:10:14.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gmailaccount.proto",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailaccount.proto",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailaccount.proto",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailaccount.proto",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Protos\\gmailaccount.proto",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-03T12:10:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGmailAccountSessionRepository.cs",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Interface\\IGmailAccountSessionRepository.cs",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Interface\\IGmailAccountSessionRepository.cs",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Interface\\IGmailAccountSessionRepository.cs",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Interface\\IGmailAccountSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:09:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chatly.OmniChannel.Gmail.GServices",
+              "DocumentMoniker": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj",
+              "RelativeDocumentMoniker": "Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj",
+              "ToolTip": "D:\\Working\\krispcallOmni\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj",
+              "RelativeToolTip": "Chatly.OmniChannel.Gmail.GServices\\Chatly.OmniChannel.Gmail.GServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T12:08:28.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

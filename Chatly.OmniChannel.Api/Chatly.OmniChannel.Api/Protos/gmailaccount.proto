@@ -1,0 +1,71 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Chatly.OmniChannel.Gmail.GServices";
+
+service GmailAccountSessionRpc {
+
+  rpc GetSession (SessionIdRequest) returns (GmailAccountSessionVM);
+  rpc CreateSession (GmailAccountSessionVM) returns (GmailAccountSessionVM);
+  rpc UpdateSession (GmailAccountSessionVM) returns (Empty);
+  rpc DeleteSession (GmailAccountSessionVM) returns (Empty);
+  rpc GetGoogleLoginUrl (Empty) returns (GoogleAuthUrlResponse);
+  rpc HandleGoogleCallback (GoogleCallbackRequest) returns (GoogleCallbackResponse);
+  
+  // New method added
+  rpc GetAllSessions (Empty) returns (GmailAccountSessionListResponse);
+}
+
+message SessionIdRequest {
+  string id = 1; // GUID as string
+}
+
+message GmailAccountSessionVM {
+  string id = 1;
+  string userId = 2;
+  string email = 3;
+  string name = 4;
+  string accessToken = 5;
+  string refreshToken = 6;
+  string tokenType = 7;
+  string scope = 8;
+  string issuedAt = 9;
+  string expiresAt = 10;
+  bool isActive = 11;
+  int32 status = 12;
+  bool isDeleted = 13;
+}
+message GmailAccountSessionResponseVM {
+  string id = 1;
+  string userId = 2;
+  string email = 3;
+  string name = 4;
+  bool isActive = 11;
+  int32 status = 12;
+  bool isDeleted = 13;
+}
+
+
+// New message to hold the list of sessions
+message GmailAccountSessionListResponse {
+  repeated GmailAccountSessionResponseVM sessions = 1;
+}
+
+message GoogleAuthUrlResponse {
+  string url = 1;
+}
+
+message GoogleCallbackRequest {
+  string code = 1;
+}
+
+message GoogleCallbackResponse {
+  string id = 1;
+  string email = 2;
+  string name = 3;
+  bool isActive = 4;
+  string campaignType = 5; // e.g., "Gmail"
+  int32 status = 6;
+  bool isDeleted = 7;
+}
+
+message Empty {}

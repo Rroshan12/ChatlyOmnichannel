@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Gmailinbox.cs \
+obj\Debug\net8.0\Protos/GmailinboxGrpc.cs: Protos/gmailinbox.proto

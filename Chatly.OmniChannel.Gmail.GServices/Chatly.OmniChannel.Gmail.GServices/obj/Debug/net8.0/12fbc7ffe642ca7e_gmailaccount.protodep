@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Gmailaccount.cs \
+obj\Debug\net8.0\Protos/GmailaccountGrpc.cs: Protos/gmailaccount.proto

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36105.17 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatly.OmniChannel.Api", "Chatly.OmniChannel.Api\Chatly.OmniChannel.Api.csproj", "{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF21A36-87C5-4E5C-B7D3-1500674A13FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA37FFD-64EE-420F-9CB6-841B493345B9}
+	EndGlobalSection
+EndGlobal
